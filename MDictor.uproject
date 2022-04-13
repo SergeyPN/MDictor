@@ -35,6 +35,10 @@
 			"Name": "NeuronLiveLink",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3fd0aaf39c3643788c2462a5b5ae58be"
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
 		}
 	]
 }
